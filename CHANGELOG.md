@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/hadlow/go-publish/compare/v1.0.0...v1.0.1) (2025-01-23)
+
+
+### Bug Fixes
+
+* goreleaser? ([94c42db](https://github.com/hadlow/go-publish/commit/94c42db74eead8ebf0b0599bfa34e3ca4a3cbeb5))
+
 # 1.0.0 (2025-01-23)
 
 
