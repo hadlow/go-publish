@@ -47,20 +47,20 @@ changelog:
       - "^docs:"
       - "^test:"
 
-# repository:
-#   owner: hadlow
-#   name: homebrew-go-publish
-#   branch: main
-#   token: "{{ .Env.GH_TOKEN }}"
+repository:
+  owner: hadlow
+  name: homebrew-go-publish
+  branch: main
+  token: "{{ .Env.GITHUB_TOKEN }}"
 
-# brews:
-#   - name: sendex
-#     tap:
-#       owner: hadlow
-#       name: homebrew-go-publish
-#     homepage: "https://github.com/hadlow/go-publish"
-#     description: "A lightweight, file-based tool to make requests to your API"
-#     install: |
-#       bin.install "go-publish"
-#     test: |
-#       system "#{bin}/go-publish --version"
+brews:
+  - name: sendex
+    tap:
+      owner: hadlow
+      name: homebrew-go-publish
+    homepage: "https://github.com/hadlow/go-publish"
+    description: "A lightweight, file-based tool to make requests to your API"
+    install: |
+      bin.install "go-publish"
+    test: |
+      system "#{bin}/go-publish --version"
