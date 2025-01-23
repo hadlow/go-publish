@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/hadlow/go-publish/compare/v1.0.3...v1.0.4) (2025-01-23)
+
+
+### Bug Fixes
+
+* try homebrew again ([1a08352](https://github.com/hadlow/go-publish/commit/1a0835296c68257428041c99976914a2530b745a))
+
 ## [1.0.3](https://github.com/hadlow/go-publish/compare/v1.0.2...v1.0.3) (2025-01-23)
 
 
