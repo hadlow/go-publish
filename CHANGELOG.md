@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/hadlow/go-publish/compare/v1.0.1...v1.0.2) (2025-01-23)
+
+
+### Bug Fixes
+
+* lets try without homebrew ([c5a2151](https://github.com/hadlow/go-publish/commit/c5a2151791e6b20b79044964ce3bee6d563eadff))
+
 ## [1.0.1](https://github.com/hadlow/go-publish/compare/v1.0.0...v1.0.1) (2025-01-23)
 
 
