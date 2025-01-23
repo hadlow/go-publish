@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/hadlow/go-publish/compare/v1.0.2...v1.0.3) (2025-01-23)
+
+
+### Bug Fixes
+
+* use correct token name ([0208880](https://github.com/hadlow/go-publish/commit/02088802d335282868289d07c819200c1399c831))
+
 ## [1.0.2](https://github.com/hadlow/go-publish/compare/v1.0.1...v1.0.2) (2025-01-23)
 
 
