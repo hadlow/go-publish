@@ -8,7 +8,7 @@
 
 version: 2
 
-project_name: hadlow-go-publish
+project_name: hadlow-gopublish
 
 before:
   hooks:
@@ -49,7 +49,7 @@ changelog:
 
 brews:
   -
-    name: go-publish
+    name: gopublish
 
     # goarm: 6
     # goamd64: v1
@@ -66,13 +66,13 @@ brews:
     license: "MIT"
 
     install: |
-      bin.install "go-publish"
+      bin.install "gopublish"
     test: |
-      system "#{bin}/go-publish --version"
+      system "#{bin}/gopublish --version"
 
     # Repository to push the generated files to.
     repository:
       owner: hadlow
-      name: homebrew-go-publish
+      name: homebrew-gopublish
       branch: main
       token: "{{ .Env.GITHUB_TOKEN }}"
