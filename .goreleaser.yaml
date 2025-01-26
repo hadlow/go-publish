@@ -8,7 +8,7 @@
 
 version: 2
 
-project_name: hadlow-gopublish
+project_name: gopublish
 
 before:
   hooks:
