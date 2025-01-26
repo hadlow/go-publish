@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/hadlow/gopublish/compare/v1.0.0...v1.0.1) (2025-01-26)
+
+
+### Bug Fixes
+
+* consistent names? ([dba7630](https://github.com/hadlow/gopublish/commit/dba7630c0d7da89d695bf3c4dbaacfe562857e82))
+
 # 1.0.0 (2025-01-24)
 
 
